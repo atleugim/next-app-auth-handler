@@ -22,7 +22,7 @@ I'm not sure if I should use middleware or not due to compatibility issues with 
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/atleugim/next-app-auth-handler.git
 
 # Install dependencies
 npm install
